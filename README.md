@@ -1,6 +1,5 @@
 ## Hi there! I'm Leonardo Birardi 👋
 
-- 🔭 I’m currently working on Wearepoint.net
 - 🌱 I’m currently learning Software Architecture
 - 📫 How to reach me: leobir68@gmail.com
 - 😄 Pronouns: he/him
