@@ -24,7 +24,9 @@
   <img align="center" alt="Rafa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>         
-          
+
+![Snake animation](https://github.com/M4x28/M4x28/blob/output/github-contribution-grid-snake.svg)
+
 ##          
   
 <div> 
