@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Software Architecture
 - 📫 How to reach me: leobir70@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: speedrun lover
 - ☕ Coffee Break?
 
