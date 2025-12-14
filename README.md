@@ -1,6 +1,6 @@
 ## Hi there! I'm Leonardo Birardi 👋
 
-- 🌱 I’m currently learning AI and ML
+- 🌱 I’m currently learning AI
 - 📫 How to reach me: leobir70@gmail.com
 - ⚡ Fun fact: speedrun lover
 - ☕ Coffee Break?
