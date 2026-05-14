@@ -1,6 +1,6 @@
 ## Hi there! I'm Leonardo Birardi 👋
 
-- 🌱 I’m currently learning AI
+- 🌱 I'm attending the Master's degree in AI at the University of Pisa
 - 📫 How to reach me: leobir70@gmail.com
 - ⚡ Fun fact: speedrun lover
 - ☕ Coffee Break?
@@ -8,9 +8,9 @@
 <br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=M4x28&show_icons=true&theme=radical" alt="Leo's Stats" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4x28&langs_count=8&layout=compact&theme=radical" alt="Top Languages" height="180em">
-</div> 
+<img src="https://github-stats-extended.vercel.app/api?username=M4x28&show_icons=true&theme=radical" alt="Leo's Stats" height="180em">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=M4x28&langs_count=8&layout=compact&theme=radical" alt="Top Languages" height="180em">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
